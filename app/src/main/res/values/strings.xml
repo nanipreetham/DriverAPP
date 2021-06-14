@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DriverAPP</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="we_will_send_you_an_otp_on_this_given_mobile_number">we will send you an OTP on this given mobile number</string>
+    <string name="please_enter_the_otp_sent_to_you">Please enter the OTP sent to you</string>
+
+</resources>
